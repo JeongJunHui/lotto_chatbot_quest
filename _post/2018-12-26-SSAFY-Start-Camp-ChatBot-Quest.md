@@ -1,5 +1,5 @@
 ---
-title : SSAFY Start Camp ChatBot Quest
+title : SSAFY_Start_Camp_ChatBot_Quest
 ---
 
 ### SSAFY Start Camp 챗봇 퀘스트
